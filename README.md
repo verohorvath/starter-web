@@ -18,3 +18,5 @@ Something to change
 2022 Git.Training.
 
 Please fork this repository and then issue Pull Request for review
+
+All rights reserved
